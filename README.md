@@ -1,2 +1,2 @@
 # shootout4
-simple 3D Unity Game
+simple 3D Mobile Unity Game
